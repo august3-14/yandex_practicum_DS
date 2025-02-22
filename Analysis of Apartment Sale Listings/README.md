@@ -39,7 +39,7 @@ For each listed apartment, two types of data are available. The first type is en
     2.1.4. BALCONY  
     2.1.5. LIVING_AREA  
     2.1.6. KITCHEN_AREA  
-    2.1.7. Other Indicators  
+    2.1.7. Other Factors  
   2.2. Handling Duplicates  
 3. **Additional Data**  
   3.1. SQ_METER_PRICE  
