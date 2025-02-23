@@ -46,7 +46,7 @@ During the study, we will analyze the data and test several hypotheses:
 * `Hypothesis #3`: Monthly revenue from subscribed users is higher than from regular users.
 
 # Plan  
-1. **Familiarization with the Data**  
+1. **Data Review**  
 2. **Data Preprocessing**  
 3. **Exploratory Data Analysis**  
    - 3.1. **City**  
