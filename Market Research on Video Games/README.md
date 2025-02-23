@@ -15,7 +15,7 @@ For the task received from the business, we need to conduct research on the vide
 * `Rating` — rating by the ESRB organization, defining the game's age category
 
 ## Plan
-1. **Data Familiarization**  
+1. **Data Review**  
 2. **Data Preprocessing**  
    - 2.1. Table Header and Data Types  
    - 2.2. Handling Duplicates  
